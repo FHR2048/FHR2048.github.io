@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="/config/feed/atom.xsl" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>茯茯小站</title>
-  <icon>https://fhr2048.github.io/icon.png</icon>
+  <icon>https://fhr2048.github.io/img/favicon.ico</icon>
   
   <link href="https://fhr2048.github.io/atom.xml" rel="self"/>
   
