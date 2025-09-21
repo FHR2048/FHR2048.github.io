@@ -37,7 +37,7 @@
             --border-color: #e2e8f0;
             --accent-color: #4f46e5;
             --muted-color: #64748b;
-            --header-text: #fff;
+            --header-text: #66CCFF;
             --footer-text: #fff;
             --footer-a: #e28959ff;
             --footer-a-hover: #f79662ff;
@@ -53,7 +53,7 @@
               --border-color: #334155;
               --accent-color: #818cf8;
               --muted-color: #94a3b8;
-              --header-text: #f3f4f6;
+              --header-text: #66CCFF;
               --header-muted: #9ca3af;
               --subscribe-bg: #1f2937;
             }
@@ -334,7 +334,7 @@
             </div>
             <div class="footer-line">
               由 <xsl:value-of select="/atom:feed/atom:generator"/> 生成 • 
-              <a href="https://blog.xiowo.net">茯茯小站</a>
+              <a href="https://fhr2048.github.io/">茯茯小站</a>
             </div>
           </footer>
         </div>
