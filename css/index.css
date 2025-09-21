@@ -3990,11 +3990,11 @@ body[data-type='about'] #web_bg {
   -webkit-justify-content: center;
   justify-content: center;
   color: var(--anzhiyu-white);
-  background: -webkit-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
-  background: -moz-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
-  background: -o-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
-  background: -ms-linear-gradient(330deg, #5b27ff 0, #00d4ff 100%);
-  background: linear-gradient(120deg, #5b27ff 0, #00d4ff 100%);
+  background: -webkit-linear-gradient(330deg, #f7aa55 0, #6cf 100%);
+  background: -moz-linear-gradient(330deg, #f7aa55 0, #6cf 100%);
+  background: -o-linear-gradient(330deg, #f7aa55 0, #6cf 100%);
+  background: -ms-linear-gradient(330deg, #f7aa55 0, #6cf 100%);
+  background: linear-gradient(120deg, #f7aa55 0, #6cf 100%);
   background-size: 200%;
   -webkit-animation: gradient 15s ease infinite;
   -moz-animation: gradient 15s ease infinite;
@@ -5411,7 +5411,7 @@ body[data-type='about'] #web_bg {
   position: relative;
   height: 315px;
   width: 100%;
-  background: #2128bd;
+  background: #ffd07a;
   overflow: hidden;
 }
 .shape {
@@ -5461,7 +5461,7 @@ body[data-type='about'] #web_bg {
   align-items: center;
   height: 315px;
   width: 100%;
-  background: #fff;
+  background: #ffd07a;
   mix-blend-mode: screen;
 }
 [data-theme='dark'] .hello-about .content {
