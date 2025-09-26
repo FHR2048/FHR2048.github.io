@@ -37,8 +37,8 @@
             --border-color: #e2e8f0;
             --accent-color: #4f46e5;
             --muted-color: #64748b;
-            --header-text: #37ce7dff;
-            --footer-text: #37ce7dff;
+            --header-text: #ec2b24;
+            --footer-text: #ec2b24;
             --footer-a: #e28959ff;
             --footer-a-hover: #f79662ff;
             --header-muted: #6b7280;
@@ -53,7 +53,7 @@
               --border-color: #334155;
               --accent-color: #818cf8;
               --muted-color: #94a3b8;
-              --header-text: #37ce7dff;
+              --header-text: #ec2b24;
               --header-muted: #9ca3af;
               --subscribe-bg: #1f2937;
             }
