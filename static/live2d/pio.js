@@ -188,7 +188,7 @@ var Paul_Pio = function (prop) {
                 modules.destroy();
             };
             elements.close.onmouseover = function () {
-                modules.render(prop.content.close || "QWQ 下次再见吧~");
+                modules.render(prop.content.close || "QWQ 下次再见吧~遮挡音乐球可隐藏我");
             };
             current.menu.appendChild(elements.close);
         },
