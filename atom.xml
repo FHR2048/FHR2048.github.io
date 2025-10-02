@@ -6,7 +6,7 @@
   <link href="https://fhr2048.github.io/atom.xml" rel="self"/>
   
   <link href="https://fhr2048.github.io/"/>
-  <updated>2025-09-20T06:10:42.378Z</updated>
+  <updated>2025-10-02T08:02:47.336Z</updated>
   <id>https://fhr2048.github.io/</id>
   
   <author>
@@ -17,11 +17,40 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>数学公式显示测试</title>
+    <title>化学方程式渲染测试</title>
+    <link href="https://fhr2048.github.io/posts/2/"/>
+    <id>https://fhr2048.github.io/posts/2/</id>
+    <published>2025-10-02T07:22:45.000Z</published>
+    <updated>2025-10-02T08:02:47.336Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;anzhiyu主题似乎没自带Katex的化学模块，所以研究了一下，写了篇教程方便其他需要的小伙伴&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数学公式渲染测试</title>
     <link href="https://fhr2048.github.io/posts/1/"/>
     <id>https://fhr2048.github.io/posts/1/</id>
     <published>2025-09-16T14:42:01.295Z</published>
-    <updated>2025-09-20T06:10:42.378Z</updated>
+    <updated>2025-10-02T07:54:47.067Z</updated>
     
     
       
@@ -48,14 +77,14 @@
     <link href="https://fhr2048.github.io/posts/0/"/>
     <id>https://fhr2048.github.io/posts/0/</id>
     <published>2025-09-13T14:12:16.292Z</published>
-    <updated>2025-09-20T06:10:12.253Z</updated>
+    <updated>2025-10-02T07:29:34.739Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h2 id=&quot;默认生存文章，故保留之&quot;&gt;&lt;a href=&quot;#默认生存文章，故保留之&quot; class=&quot;headerlink&quot; title=&quot;默认生存文章，故保留之&quot;&gt;&lt;/a&gt;默认生存文章，故保留之&lt;/h2&gt;&lt;p&gt;Welcome to &lt;a</summary>
         
       
     
