@@ -6,7 +6,7 @@
   <link href="https://fhr2048.github.io/atom.xml" rel="self"/>
   
   <link href="https://fhr2048.github.io/"/>
-  <updated>2025-10-03T06:07:11.286Z</updated>
+  <updated>2025-10-03T07:49:47.336Z</updated>
   <id>https://fhr2048.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fhr2048.github.io/posts/2/"/>
     <id>https://fhr2048.github.io/posts/2/</id>
     <published>2025-10-02T07:22:45.000Z</published>
-    <updated>2025-10-03T06:07:11.286Z</updated>
+    <updated>2025-10-03T07:49:47.336Z</updated>
     
     
       
@@ -30,7 +30,8 @@
         
     <summary type="html">&lt;div class=&quot;note info flat&quot;&gt;&lt;p&gt;anzhiyu主题似乎没自带Katex的化学模块，所以研究了一下，写了篇教程方便其他需要的小伙伴&lt;/p&gt;
 &lt;/div&gt;
-&lt;h2 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot; class=&quot;headerlink&quot;</summary>
+
+&lt;h2 id=&quot;效果演示&quot;&gt;&lt;a href=&quot;#效果演示&quot;</summary>
         
       
     
@@ -39,9 +40,13 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
-    <category term="Latex，hexo，anzhiyu" scheme="https://fhr2048.github.io/tags/Latex%EF%BC%8Chexo%EF%BC%8Canzhiyu/"/>
+    <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
+    
+    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
     
   </entry>
   
@@ -50,7 +55,7 @@
     <link href="https://fhr2048.github.io/posts/1/"/>
     <id>https://fhr2048.github.io/posts/1/</id>
     <published>2025-09-16T14:42:01.295Z</published>
-    <updated>2025-10-02T11:31:43.722Z</updated>
+    <updated>2025-10-03T07:50:24.449Z</updated>
     
     
       
@@ -66,9 +71,13 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
+    
     <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
   </entry>
   
