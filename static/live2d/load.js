@@ -9,15 +9,16 @@ const initConfig = {
     link: 引流[Math.floor(Math.random() * 引流.length)],
     welcome: ["Hi!"],
     touch: "",
-    skin: ["诶，想看看其他成员吗？", "替换后入场文本"],
+    skin: ["诶，想看看其他成员吗？", "替换后入场文本"], // 0更换模型提示文案  1更换完毕入场文案
     custom: [
       { "selector": ".comment-form", "text": "Content Tooltip" },
       { "selector": ".home-social a:last-child", "text": "Blog Tooltip" },
       { "selector": ".list .postname", "type": "read" },
-      { "selector": ".post-content a, .page-content a, .post a", "type": "link" }
+      { "selector": ".post-content a, .page-content a, .post a", "type": "link" }           // 鼠标移上去提示元素
     ],
   },
   night: "toggleNightMode()",
+  // 待加载模型
   model: [
     "https://cdn.moeshou.com/me/live2d/Diana/Diana.model3.json",
     "https://cdn.moeshou.com/me/live2d/Ava/Ava.model3.json",
@@ -29,7 +30,7 @@ const initConfig = {
 function 加载圣·嘉然() {
   pio_reference = new Paul_Pio(initConfig)
 
-  pio_alignment = "left"
+  pio_alignment = "right"
 
   // Then apply style
   pio_refresh_style()
@@ -206,7 +207,6 @@ function onModelLoad(model) {
     })
   }
 }
-
 
 var pio_reference
 window.onload = 加载圣·嘉然

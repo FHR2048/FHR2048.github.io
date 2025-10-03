@@ -48,7 +48,7 @@ var Paul_Pio = function (prop) {
                 dialog.innerHTML = text;
             }
             else {
-                dialog.innerHTML = "输入内容出现问题了 X_X";
+                dialog.innerHTML = "输入内容出现问题了 QwQ";
             }
 
             dialog.classList.add("active");
@@ -188,7 +188,7 @@ var Paul_Pio = function (prop) {
                 modules.destroy();
             };
             elements.close.onmouseover = function () {
-                modules.render(prop.content.close || "QWQ 下次再见吧~遮挡音乐球可隐藏我");
+                modules.render(prop.content.close || "QwQ 那下次再见吧~要是遮挡元素的话，我可以让一让");
             };
             current.menu.appendChild(elements.close);
         },
