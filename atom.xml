@@ -6,7 +6,7 @@
   <link href="https://fhr2048.github.io/atom.xml" rel="self"/>
   
   <link href="https://fhr2048.github.io/"/>
-  <updated>2025-10-03T07:49:47.336Z</updated>
+  <updated>2025-10-03T07:59:21.366Z</updated>
   <id>https://fhr2048.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fhr2048.github.io/posts/2/"/>
     <id>https://fhr2048.github.io/posts/2/</id>
     <published>2025-10-02T07:22:45.000Z</published>
-    <updated>2025-10-03T07:49:47.336Z</updated>
+    <updated>2025-10-03T07:59:21.366Z</updated>
     
     
       
@@ -40,9 +40,9 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
-    
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
     <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
@@ -71,11 +71,11 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
-    
     <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
     <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
