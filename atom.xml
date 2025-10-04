@@ -40,13 +40,13 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
-    
     <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
-    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
-    
     <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
+    
+    <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
   </entry>
   
@@ -71,13 +71,13 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
-    
     <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
+    
+    <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   

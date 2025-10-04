@@ -84,7 +84,7 @@
 
 #calendar-main a.now {
     background: var(--anzhiyu-main);
-    color: var(--efu-card-bg);
+    color: #fff; /* 修改这里：将字体颜色改为白色 */
 }
 
 #calendar-main .calendar-rh a {
