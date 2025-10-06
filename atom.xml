@@ -6,7 +6,7 @@
   <link href="https://fhr2048.github.io/atom.xml" rel="self"/>
   
   <link href="https://fhr2048.github.io/"/>
-  <updated>2025-10-06T06:13:57.114Z</updated>
+  <updated>2025-10-06T06:34:04.712Z</updated>
   <id>https://fhr2048.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://fhr2048.github.io/posts/3/"/>
     <id>https://fhr2048.github.io/posts/3/</id>
     <published>2025-10-06T02:10:26.000Z</published>
-    <updated>2025-10-06T06:13:57.114Z</updated>
+    <updated>2025-10-06T06:34:04.712Z</updated>
     
     
       
@@ -35,6 +35,18 @@
     
     
     
+    <category term="教程" scheme="https://fhr2048.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="PDS" scheme="https://fhr2048.github.io/tags/PDS/"/>
+    
+    <category term="航天" scheme="https://fhr2048.github.io/tags/%E8%88%AA%E5%A4%A9/"/>
+    
+    <category term="数据处理" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/"/>
+    
+    <category term="python" scheme="https://fhr2048.github.io/tags/python/"/>
+    
+    <category term="嫦娥" scheme="https://fhr2048.github.io/tags/%E5%AB%A6%E5%A8%A5/"/>
     
   </entry>
   
