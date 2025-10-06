@@ -6,7 +6,7 @@
   <link href="https://fhr2048.github.io/atom.xml" rel="self"/>
   
   <link href="https://fhr2048.github.io/"/>
-  <updated>2025-10-03T07:59:21.366Z</updated>
+  <updated>2025-10-06T06:05:06.407Z</updated>
   <id>https://fhr2048.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GRAS中嫦娥探月工程数据(PDS)2级数据处理与可视化</title>
+    <link href="https://fhr2048.github.io/posts/3/"/>
+    <id>https://fhr2048.github.io/posts/3/</id>
+    <published>2025-10-06T02:10:26.000Z</published>
+    <updated>2025-10-06T06:05:06.407Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;一、数据获取&quot;&gt;&lt;a href=&quot;#一、数据获取&quot; class=&quot;headerlink&quot; title=&quot;一、数据获取&quot;&gt;&lt;/a&gt;一、数据获取&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;注册并登录:&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>化学方程式渲染测试</title>
@@ -40,13 +62,13 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
-    
-    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
-    
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
     
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
+    
     <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
+    
+    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
     
   </entry>
   
@@ -71,13 +93,13 @@
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
+    <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
     
-    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
-    <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
+    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
   </entry>
   
