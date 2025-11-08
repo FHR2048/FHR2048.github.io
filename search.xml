@@ -22,11 +22,11 @@
             
             <tag> hexo </tag>
             
+            <tag> anzhiyu </tag>
+            
             <tag> 化学 </tag>
             
             <tag> mermaid </tag>
-            
-            <tag> anzhiyu </tag>
             
         </tags>
       
@@ -84,13 +84,13 @@
       
         <tags>
             
-            <tag> hexo </tag>
+            <tag> Latex </tag>
             
-            <tag> 化学 </tag>
+            <tag> hexo </tag>
             
             <tag> anzhiyu </tag>
             
-            <tag> Latex </tag>
+            <tag> 化学 </tag>
             
         </tags>
       
@@ -115,13 +115,13 @@
       
         <tags>
             
-            <tag> hexo </tag>
-            
-            <tag> anzhiyu </tag>
-            
             <tag> 数学 </tag>
             
             <tag> Latex </tag>
+            
+            <tag> hexo </tag>
+            
+            <tag> anzhiyu </tag>
             
         </tags>
       

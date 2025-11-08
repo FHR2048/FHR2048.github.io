@@ -43,11 +43,11 @@ B-- 否</summary>
     
     <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
+    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
+    
     <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
     
     <category term="mermaid" scheme="https://fhr2048.github.io/tags/mermaid/"/>
-    
-    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
   </entry>
   
@@ -109,13 +109,13 @@ B-- 否</summary>
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
+    <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
     
-    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
     
     <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
-    <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    <category term="化学" scheme="https://fhr2048.github.io/tags/%E5%8C%96%E5%AD%A6/"/>
     
   </entry>
   
@@ -140,13 +140,13 @@ B-- 否</summary>
     <category term="学习" scheme="https://fhr2048.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
-    
-    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
-    
     <category term="数学" scheme="https://fhr2048.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
     <category term="Latex" scheme="https://fhr2048.github.io/tags/Latex/"/>
+    
+    <category term="hexo" scheme="https://fhr2048.github.io/tags/hexo/"/>
+    
+    <category term="anzhiyu" scheme="https://fhr2048.github.io/tags/anzhiyu/"/>
     
   </entry>
   
