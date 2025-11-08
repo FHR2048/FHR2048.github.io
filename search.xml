@@ -4,7 +4,38 @@
   
     
     <entry>
-      <title>GRAS中嫦娥探月工程数据(PDS)2级数据处理与可视化</title>
+      <title>mermaid图测试</title>
+      <link href="/posts/4/"/>
+      <url>/posts/4/</url>
+      
+        <content type="html"><![CDATA[<div class="mermaid-wrap"><pre class="mermaid-src" hidden>  graph TD;A[开始]--&gt;B(if 吃饭了吗?)B-- 是 --&gt;C(好的，继续工作)B-- 否 --&gt;D{饿了吗?}D-- 是 --&gt;E(那去吃吧)D-- 否 --&gt;C(好的，继续工作)C--&gt;F[结束]E--&gt;F  </pre></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> anzhiyu </tag>
+            
+            <tag> 化学 </tag>
+            
+            <tag> mermaid </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GRAS嫦娥工程数据(PDS)2级数据处理</title>
       <link href="/posts/3/"/>
       <url>/posts/3/</url>
       
@@ -53,9 +84,9 @@
       
         <tags>
             
-            <tag> Latex </tag>
-            
             <tag> hexo </tag>
+            
+            <tag> Latex </tag>
             
             <tag> anzhiyu </tag>
             
@@ -84,11 +115,11 @@
       
         <tags>
             
+            <tag> hexo </tag>
+            
             <tag> 数学 </tag>
             
             <tag> Latex </tag>
-            
-            <tag> hexo </tag>
             
             <tag> anzhiyu </tag>
             
